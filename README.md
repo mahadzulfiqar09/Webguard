@@ -302,24 +302,6 @@ Enter target URL (e.g., https://example.com): https://example.com
 
 **HTML Report — Cookie Security, XSS & SQLi Sections**
 
-<img width="1302" height="633" alt="report-summary" src="https://github.com/user-attachments/assets/4243c8d2-dbd5-40ce-be98-89d14086e3c8" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <img width="1309" height="567" alt="report-details" src="https://github.com/user-attachments/assets/ab74eb99-5477-445d-b7fd-2111f6d43a16" />
 
