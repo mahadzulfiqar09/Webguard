@@ -302,7 +302,27 @@ Enter target URL (e.g., https://example.com): https://example.com
 
 **HTML Report — Cookie Security, XSS & SQLi Sections**
 
-![WebGuard report cookie security, XSS, and SQL injection sections](screenshots/report-details.png)
+<img width="1302" height="633" alt="report-summary" src="https://github.com/user-attachments/assets/4243c8d2-dbd5-40ce-be98-89d14086e3c8" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1309" height="567" alt="report-details" src="https://github.com/user-attachments/assets/ab74eb99-5477-445d-b7fd-2111f6d43a16" />
+
 
 ---
 
@@ -387,9 +407,12 @@ For larger changes, please open an issue first to discuss what you'd like to add
 
 ---
 
-## 👤 Author
+## 👤 Author & Developer
 
-Developed by **Mahad Zulfiqar**.
+**Mahad Zulfiqar**
+Sole designer and developer of WebGuard — architecture, crawler, all five detection modules, reporting engine, and CLI.
+
+This project was built independently as a follow-on to an earlier reconnaissance tool (ReconX), extending it into full web application vulnerability scanning.
 
 ---
 
