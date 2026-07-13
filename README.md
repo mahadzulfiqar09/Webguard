@@ -302,9 +302,7 @@ Enter target URL (e.g., https://example.com): https://example.com
 
 **HTML Report — Cookie Security, XSS & SQLi Sections**
 
-
-<img width="1309" height="567" alt="report-details" src="https://github.com/user-attachments/assets/ab74eb99-5477-445d-b7fd-2111f6d43a16" />
-
+![WebGuard report cookie security, XSS, and SQL injection sections](screenshots/report-details.png)
 
 ---
 
@@ -389,12 +387,9 @@ For larger changes, please open an issue first to discuss what you'd like to add
 
 ---
 
-## 👤 Author & Developer
+## 👤 Author
 
-**Mahad Zulfiqar**
-Sole designer and developer of WebGuard — architecture, crawler, all five detection modules, reporting engine, and CLI.
-
-This project was built independently as a follow-on to an earlier reconnaissance tool (ReconX), extending it into full web application vulnerability scanning.
+Developed by **Mahad Zulfiqar**.
 
 ---
 
@@ -419,3 +414,16 @@ The authors and contributors accept no liability for misuse or damage caused by 
 ## 📜 License
 
 This project is released under the [MIT License](LICENSE) — feel free to use, modify, and distribute with attribution.
+
+
+---
+
+### 🔗 Part of a 3-Tool Security Toolkit
+
+This project is one piece of a broader offensive/defensive security pipeline:
+
+- 🛰️ **[ReconX](https://github.com/mahadzulfiqar09/ReconX)** — Reconnaissance & information gathering
+- 🛡️ **[WebGuard](https://github.com/mahadzulfiqar09/WebGuard)** — Web application vulnerability scanning
+- 🎣 **[PhishGuard](https://github.com/mahadzulfiqar09/PhishGuard)** — Hybrid phishing URL detection
+
+Built and maintained by **[Mahad Zulfiqar](https://github.com/mahadzulfiqar09)**.
